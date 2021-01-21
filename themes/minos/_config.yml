@@ -44,9 +44,9 @@ toc: false
 #  install_url:
 
 # Comment plugin settings.
-comment:
-  type: disqus
-  shortname:
+#comment:
+#  type: disqus
+#  shortname:
 
 # Other plugins and their settings.
 plugins:
